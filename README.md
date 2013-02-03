@@ -1,4 +1,3 @@
-
 Help an institution that helps other people. They got a lot of bills to pay and we got a lot of ideas to share.
 
 ## Setup local environment
@@ -15,7 +14,8 @@ Help an institution that helps other people. They got a lot of bills to pay and 
 
 I'd recommend using [Appfog](http://appfog.com)
 
- - Create a Sinatra project;
+ - Create an account on Appfog;
+ - Choose a Sinatra project to the new app;
  - Once it's created, go to Add-ons page and install Redis-Cloud;
  - In the Services tab add a Redis service;
  - Go to your command line and login in your appfog account running `$ af login`
